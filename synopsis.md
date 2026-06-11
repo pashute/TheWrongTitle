@@ -12,81 +12,71 @@
 ---
 
 ### Scene Pairs Sequence
+### Scene 1a: Opening 1 - Drama
+Steps in high-heels click against a floor; a dark room yields to a door that opens into a sunlit hall. Outside, an unexpected rain falls, yet the path ahead remains sunny and lined with flowers. The camera follows the Writer from behind—we see long, curly hair and a colorful bag. They walk toward a bright office, the Writer’s voice a smooth, ambiguous tenor.
 
-## Scene 1a: Opening 1 - Dark to light (? sec)
-- **Genre:** Drama  Time: ?   
-- **Music:** Piano - with mode of section. Continues into discussion
-- **Feminine Hints:**  - curly hair. ambiguous tenor voice. color phone.
-- **Camera:** First perspective: Writer's POV. Usually not seen. for a sec, follows from back. Long curly hair. 
-- **Scene**: Steps (high heeled), dark room, door opens to sunlit hall, surprising rain, sunny walk on flowery path. door opens to sunlit office with big windows
+### Scene 1b: Discussion 1 - Mystery and Offense
+In the editing suite, the young female Editor sits at her desk. The Writer leans in: "Nice, but it's a detective movie, no? And you got my name wrong again." The Editor doesn't look up, her face tight. "I had this kid in school who used to obsessively distort my name. I changed schools, but he followed. It was so bad that I dropped out in the 11th grade!" The Writer, aloof, stares at spam on his phone. He mumbles, "That sounds horrible," and clicks to the next cut.
 
-## Scene 1b:  Discussion 1 - Mystery and Ofense  (? sec)
-- Location: Editor's office. young female editor at desk with computer. 
-- Writer insists on suspense; "Nice, but it's a detective movie, no? and you got my name wrong"; 
-- Editor is reminded of school abuse:  "I had this kid in school used to distort my name. I changed schools but he followed. It was so bad that I left highschool at 11th grade!
-- Writer is looking at spam on phone. mumbles: That sounds horrible. 
-Cut to next scene
+### Scene 2a: Opening 2 - Detective
+The Writer glances at his watch and hears a door close behind him. The camera glances back—nothing there. The Writer begins running along the same path as before, but the flowery trail is gone, replaced by a busy, gray city street.
 
-### Scene 2a. opening - detective
-- Genre: Detective
+### Scene 2b: Discussion 2 - Detective
+The Editor interrupts, asking to open the window to hear the music drifting from the street. They listen for a moment. The Writer asks, "You know how to play piano?" She shrugs. "Maybe. I need to try." The Writer shakes his head. "Anyway, I like it, but the music isn't fast enough. Give it some more punch."
 
-- **Music:** Piano - fast and misterious- 
-- **Feminine Hints:**  - watch, writer's bolivian bag, shoe tapping sounds
-- **Camera:** First perspective: Writer's POV. Usually not seen. same as before, for a sec, follows from back. Long curly hair.
-- **Scene**: Writer glances at watch heae's a door close, camera glances back sees nothing then starts running along same path as before, except instead of flowery path there's a busy city street. Steps (high heeled), dark room. door opens to office.  
+### Scene 3a: Horror
+The hall is now distorted, filled with elongated shadows and jump scares. The music is jagged, erratic, and piercing.
 
-### Scene 2b. Discussion: Detective
-editor interupts asks to open window to hear the music. 
-briefly discuss music playing. (you know how to play the piano?  maybe, i need to try joke)
-anyway i like it, but the music is not fast enough. give it some more punch. 
+### Scene 3b: Horror Discussion
+"STOP! No way!" The Writer slams his hand on the desk. "I don't want horror in my movie. And fix the typo! It’s Boris, not Barbra."
 
-### 3a. Horror 
-- Distorted hall, shadows, jump scare. jumpy music.  
-### 3b. Horror discussion
-- "STOP! No way!  I don't want horror in my movie. and fix the typo". 
+### Scene 4a: Documentary
+The Writer is back on the original path, muttering to himself: "I should have finished high school. That bully shouldn't have dragged me down." He continues, "Okay, so we know the guy's name and where he lived twenty years ago. I have almost everything; it just needs some fine-tuning." He passes a public piano being tuned by a technician.
 
-### 4a Documentary 
-- Writer walking along the first scene path muttering: I should have finished high-school. That bully shouldn't have dragged me down. OK so we know the guys name and were he lived 20 years ago. I have almost everything, just needs some fine tuning. 
-- Passes piano being tuned. 
+### Scene 4b: Documentary Discussion
+"I don't want a cold documentary," the Writer snaps. "There are feelings involved. The movie has a heart. Come on. And fix the typo. You still have my name wrong. Are you doing this on purpose?" He gestures wildly. "And could you please close the window? How much can you listen to that suspense music without getting stressed out?"
 
-### 4b. Docu discussion
-I don't want a cold documentary. There are feelings involved. The movie has a heart. Come on. And fix the typo. You still have my name wrong. Are you doing this on purpose? And could you please close the window, how much can you listen to that suspense music without getting all stressed up?
+### Scene 5a: Kitsch Romance
+The path is saturated with bright, oversaturated colors, accompanied by a upbeat jazz soundtrack. A piano player sits at the public piano, smiling as the Writer passes, seemingly flirting. Nearby, school kids loiter. A boy is bullying a girl, calling her names. She stops, gives him a long, cold look, and asks: "Say, what do you get from abusing a girl you hardly know? Are you going to be stuck like that for the rest of your life, or maybe you get a grip on yourself and be nice to people? Huh? Whaddya say? Wanna try that?" The Writer stops, turns, and beams at her. "That's the way to go! Good for you, girl!"
 
-### 5a. Kitsch 
-Bright colors, jazz soundtrack. Piano player smiles as we pass her, and seemingly flirts. 
-School kids are along path. a boy is bullying a girl calling her names. She gives him a long look and asks: say what do you get from abusing a girl you hardly know?  Are you gonna be stuck like that for the rest of your life, or maybe you get a grip on yourself and be nice to people? huh?  whaddya say?  wanna try that? The writer turns stops, turns to her and says:  that's the way to go! Good for you girl!
+### Scene 5b: Kitsch Romance Discussion
+They discuss the jazz track. The Writer growls, "I hate elevator music!" The conversation shifts to the mounting production costs. The Editor stares at the screen. "Maybe you're stuck in a time loop. I once saw a short sci-fi Groundhog Day clone where the guy keeps writing a script and has actors play it. Then he realizes that what he's writing is what is happening, so he erases himself from the script to get out of the loop." She laughs, but it sounds hollow.
 
-### 5b. kitsch romance 
-Discussion of jazz; "I hate elevator music!" 
-Discussion about all the money being poured in. 
-Editor says: Maybe your stuck in a time loop. I once saw a short sci fi groundhog day clone, where the guy keeps on writing a script and then has actors play it. then he realizes that what he's writing is what is happening so he erases himself from the script to get out of the loop and the movie ends. She laughs. 
+### Scene 6a: Sci-Fi
+The original path is distorted into a circular motion. Instead of a door, there is an elevator. The Writer walks toward it, saying "Good morning" to the piano player, but his voice has dropped to a much lower, gravelly tone. The piano is a digital instrument, playing the same jazz motif, but the player is now waving her hands in the air to control the sound. The piano player stops and asks, "I see you passing here every time. Are you on your way to the transformer room?" The Writer pauses. "The transformer room?" A young woman walks in, the light blinks, and an old lady walks out. The Writer says, "Yeah, I heard the joke—the guy gets a slap from the young lady who says, 'Move away, creep!'" The piano player sighs. "No, it’s not a joke. We are in a sci-fi movie. Take a look at what it did to my piano."
 
-### Scene 6a. Sci Fi:  
-original path is distorted into circular motion. instead of door, elevator. 
-Says good morning to the piano player with a distinctively lower pitch, leaving the question if its somebody else.  
-Reaches elevator   The piano is a digital instrument that is playing the same music but by waving her hands. 
-The piano player stops playing and tells the writer: i see you passing here every time. are you on your way to the tranformer room?  The transformer room?  yeah look, an old lady walks in, the light blinks and a young lady walks out. 
-The writer says yeah i heard the joke the guy gets a slap from the young lady who says: move away creep! and he says wow you learned how to talk without an accent!  The piano player says: No its not an elevator. It really works, because we are in a sci-fi movie. Take a look what it did to my piano. How'd you fit the piano into that elevator?
+### Scene 6b: Sci-Fi Discussion
+*Ding.* The elevator doors open into the Editor's office. Sci-fi ambient music pours in. The Writer shouts, "NO! NO! Not sci-fi! This is a realistic movie!" The Editor looks up, her face older, weary. "I thought you said something about an elevator." The Writer turns away. "I said I hate elevator music."
 
-### 6b discussion 
-ding. elevator door opens into the editor's office. New sci fi sounding music pours in from outside
-NO NO!  Not scifi this is a realistic movie!
-Editor says:  "I thought you said something about an elevator." 
-I said i hate elevator music
+### Scene 7a: Banal
+The screen shows a first-person POV of someone baking a cake. They check the fridge, walk to the door, and close it. The music becomes muffled. A knock echoes at the door, and the piano player stands there with a serious, unreadable look. "Did I do anything wrong?"
 
-### 7a. Banal (Do it yourself video how bake a casserole)
-POV baking a cake. looking in fridge, walks to door and closes it. music becomes muffled. 
-a knock on the door and the piano player is there with a serious look. 
-Did I do anything wrong?
+### Scene 7b: Banal Discussion and Reveal
+The Writer looks at the screen, frustrated. "That was banal." 
 
-### 7b. Banal Discussion and reveal 
-"That was banal." 
-No that was not banal. that was Barbara.  
-Huh? 
-You remember Barbara?  
-Wait what?
+The Editor doesn't look up. "No, that was not banal. That was Barbara." 
 
+The Writer freezes. "Huh?" 
 
----
+She turns to face him, eyes burning. "You remember Barbara? Or is your memory as flawed as your spelling?"
 
-* **The Studio Trap:** [Placeholder A] | [Placeholder B]
+### Scene 8: THE END Titles (and reveal)
+Ending music. Titles begin
+*The Wrong Title* by Matilda Ray, a *Sweet Revenge Inc.* production. 
+
+Behind the titles, the camera reverses, pulling back from the monitor. 
+
+The Writer is not a young woman; he is an elderly man with long curly white hair, 
+he is standing near the elderly editor: He stares at a small screen that is showing the ending: 
+The camera turns back to the screenb:  
+
+*The Wrong Title* by Matilda Ray, a *Sweet Revenge Inc.* production, 
+starring Boris Bar-Baruch as the Writer (on screen, he is smiling and waving), 
+Matilda Ray as the Editor, and Rita Dawson as the piano player. 
+
+Camera goes back to him.
+He looks up, smiling proudly. "How was my acting? It's easy when they don't see you!" 
+Then, surprised, he looks at the piano player. "Rita Dawson?" 
+
+She replies: "Yup, I am Retard Awesome." 
+Matilda extends her hand: "And I'm Matilda. She's my first client."
