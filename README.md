@@ -9,7 +9,9 @@ It follows a progressive series of "opening scenes" starring and then discussed 
 
 Each scene pair alternates between an *Opening Scene* (a clip from the film being edited with titles) and an *Editing Suite* (the real-world discussion about it). 
 
-The Editor keeps making typos, beginning with misreading the Writer's name, the genre shifts with every round, and the power struggle escalates until a surprise finale.
+The Editor keeps making typos, beginning with misreading the Writer's name, the genre shifts with every round, and the power struggle escalates until a surprise finale with the reveal of a sweet revenge of poetic justice.  
+
+Then in a second twist during the titles, a "behind the scenes" section is shown with a surprising reversal of roles, and revenge turnaround. 
 
 ## Structure
 
