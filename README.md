@@ -1,10 +1,21 @@
+# Filename: README.md
+# Version: 1.0.1
+
 # The Wrong Title
 
-**The Wrong Title** is a short film project structured as a film-within-a-film. It follows a Writer (always off-screen, seen only in first-person) who battles an Editor over the tone, genre, and direction of their movie. Each scene pair alternates between an *Opening Scene* (a clip from the film being edited) and an *Editing Suite* (the real-world discussion about it). The Editor keeps misreading the Writer's name, the genre shifts with every round, and the power struggle escalates until a surprise finale.
+**The Wrong Title** is a short film project on sweet revenge, structured as a film-within-a-film. 
+
+It follows a progressive series of "opening scenes" starring and then discussed by The Writer (always off-screen, seen only in first-person) who battles an Editor over the tone, genre, and direction of the latest opening scene version. 
+
+Each scene pair alternates between an *Opening Scene* (a clip from the film being edited with titles) and an *Editing Suite* (the real-world discussion about it). 
+
+The Editor keeps making typos, beginning with misreading the Writer's name, the genre shifts with every round, and the power struggle escalates until a surprise finale.
 
 ## Structure
 
-The film consists of **8 scene pairs**, strictly realistic (no hallucinations, dreams, or supernatural elements), presented in chronological order. The Editor visibly ages across the sessions. A persistent typo in the Writer's name runs throughout as a recurring gag and source of tension.
+The film consists of **7 scene pairs**, is strictly realistic (no hallucinations, dreams, or supernatural elements), presented in chronological order. The Editor visibly ages across the sessions. A changing typo of the writer's name runs thoughout the scenes and turns out to be the source of the final surprise.
+
+The exact ending and even its direction are yet to be determined. 
 
 ## Files
 
@@ -12,7 +23,9 @@ The film consists of **8 scene pairs**, strictly realistic (no hallucinations, d
 
 ## Genre Sequence
 
-Drama → All-Family → Action → Horror → Kitsch → Sci-Fi → Banal → **Surprise**
+Yet to be determined. 
+In this sequence: 
+1. Drama → 2. Detective → 3. Horror → 4. Romantic Kitsch → 5. Sci-Fi → 6. Banal → 7. **Surprise**
 
 ## Themes
 
