@@ -13,6 +13,20 @@ The Editor keeps making typos, beginning with misreading the Writer's name, the 
 
 Then in a second twist during the titles, a "behind the scenes" section is shown with a surprising reversal of roles, and revenge turnaround.
 
+## Plot
+
+The viewer is lead to believe the writer is a woman. (hints: colorful phone, shot of long curly hair in the first two scenes, bolivian bag).  The topic of the movie is discussed, a detective trying to find a non-criminal childhood abuser. "that's NOT all-family" "OK maybe not"
+
+The piano music spills into the room. In the opening scenes first the piano is seen and later in the movie the piano player. Its a public piano heard inside the editing room. (I keep the window open to hear it)
+
+Durring the discussion about "the movie opening" in several sessions which eventually span out over many years, the editor tells about a classmate who used to laugh at her name and obsessively distort it, until she left highschool altogether.   
+
+This abuse story subsequently creeps into the opening scenes to the protests of the writer with new instructions. The editor always promises to fix the mistakes, but seemingly things get worse. there is a replacement editor once, and the writer hopes this time it will be corrected the way the writer wants it. 
+
+In the last session the editor reveals herself. YOu don't recognize me, right?  I'm "Fatilda!" you remember me?
+
+Then during the titles the camera is reversed to show the writer. A man!  
+
 ## Structure
 
 The film consists of **7 scene pairs**, is strictly realistic (no hallucinations, dreams, or supernatural elements), presented in chronological order. The Editor visibly ages across the sessions. A changing typo of the writer's name runs thoughout the scenes and turns out to be the source of the final surprise.
