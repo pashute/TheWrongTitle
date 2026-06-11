@@ -2,8 +2,11 @@
 
 | Category | Details |
 | :--- | :--- |
-| **Constraints** | Total of 8 scene pairs; strictly realistic (no hallucinations/dreams/imaginations/ghosts); chronological aging of editor; genre shift sequence; persistent typos in writer's name. |
-| **Conflicts** | Sweet revenge (double-sided); Errors vs. Intent; Writer vs. Editor (power struggle); Artist vs. Studio (mediocrity vs. vision); Logic vs. Time-loop/Fate. |
+| **Constraints** | - Short movie (up to 20 minutes. The less the better) <br> - Total of 7 scene pairs, and final titles with reversal scene; <br> - strictly realistic (no hallucinations/dreams/imaginations/ghosts); <br> - chronological aging of editor; <br> - genre shift sequence; (take from readme) <br> - persistent typos. first and 7th scene pair with typo in writer's name. |
+| **Conflicts** | Sweet revenge (double-sided); 
+- Errors vs. Intent; 
+- Writer vs. Editor (power struggle); 
+- Artist vs. Studio (mediocrity vs. vision); Logic vs. Time-loop/Fate. |
 | **Format** | First-person perspective (Writer's POV throughout, never seen); alternating between "Opening Scene" (film-within-a-film) and "Editing Suite" (narrative reality). |
 
 ---
