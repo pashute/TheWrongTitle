@@ -1,5 +1,5 @@
 # Filename: README.md
-# Version: 1.0.2
+# Version: 1.0.3
 
 # The Wrong Title
 
@@ -11,13 +11,15 @@ Each scene pair alternates between an *Opening Scene* (a clip from the film bein
 
 The Editor keeps making typos, beginning with misreading the Writer's name, the genre shifts with every round, and the power struggle escalates until a surprise finale with the reveal of a sweet revenge of poetic justice.  
 
-Then in a second twist during the titles, a "behind the scenes" section is shown with a surprising reversal of roles, and revenge turnaround. 
+Then in a second twist during the titles, a "behind the scenes" section is shown with a surprising reversal of roles, and revenge turnaround.
 
 ## Structure
 
 The film consists of **7 scene pairs**, is strictly realistic (no hallucinations, dreams, or supernatural elements), presented in chronological order. The Editor visibly ages across the sessions. A changing typo of the writer's name runs thoughout the scenes and turns out to be the source of the final surprise.
 
-The exact ending and even its direction are yet to be determined. 
+The piano music from the opening scenes pours into the editing office played on a public piano just outside. In the ending scene the piano player turns out to be part of the plot. 
+
+During the discussions the viewer is lead to believe that the writer is a woman. During the titles the camera is turned to reveal that the writer is in fact a man - the real life abuser who is being revenged. The editor owns a company called Sweet Revenge, and her first client is the piano player.  
 
 ## Files
 
