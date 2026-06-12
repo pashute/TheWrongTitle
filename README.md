@@ -5,7 +5,26 @@
 
 **The Wrong Title** is a short film project on sweet revenge, structured as a film-within-a-film, rapidly going through 7 genres and ending with a double twist. 
 
-### Plot Summary
+The Wrong Title is a short film project on sweet revenge, structured as a film-within-a-film.
+### Summary
+
+I am shown version after version of The Wrong Title opening scene, asking the editor to remove the typo in my name, it's Barbara Lagrant not Barbra Largent, and to stop putting her childhood tormentor into my detective story. There's a beautiful piano player who's playing the movie's music, and with whom I have an embarrassing moment.
+
+We go through a sci-fi scene where I attempt to write myself out of the time-loop catch, a brief horror scene, docu-drama, a kitschy romantic phase (with the embarrassing incident), and a scene where our screening is done on a theatrical stage in front of a full applauding house.
+
+In the final scene I discover, according to the script, that I was the teenage offender, and Fatilda, sorry Matilda, now very beautiful, who played the editor, wrote this movie and had me casted for it, as sweet revenge.
+
+The movie is over. The titles are going up, and we are in a "Behind the Scenes" section. I turn the camera and show my face. I'm a smiling man.
+
+There's a typo in my family name. She wrote Bully Revenge instead of Billy Ronvege. Then I notice the names of the other stars. Matilda Madgirl as the piano player and Rita Radcliff as the editor. Matilda? She smiles. Fatilda, and that's Retard. I'm her first client at Sweet Revenge.
+
+### Plot
+
+The movie Titles are being shown:
+
+The Wrong Title. A Sweet Revenge Inc. production.
+
+Starring...
 
 I am the movie author. I'm holding the camera. You never see my face. Only a glimpse of my long curly hair. In the opening scene with the movie titles, I am walking innocently, hearing my own steps as I pass from a dark room through a sunlit corridor, exit into a rainy garden, and then continue along a sunny, flowery path between tall green bushes. I pass a piano and reach a door to the editing room, where I hear the piano played. I explain to the editor: It was supposed to be a detective movie, that music is too bright, and there's a typo in my name. It's Barbara.
 
@@ -28,7 +47,6 @@ While the titles are going up there's a behind the scenes section behind the tit
 I look at the piano player, shocked: She's smiling. Matilda?
 
 She extends her hand: Fatilda. And that's Retard from Sweet Revenges. I'm her first client.
-
 - [`synopsis.md`](synopsis.md) — Full project breakdown: constraints, conflicts, format, scene-pair sequence, and surprise-scene placeholders.
 
 ## Genre Sequence
