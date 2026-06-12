@@ -1,5 +1,5 @@
 # Filename: README.md
-# Version: 1.0.3
+# Version: 1.0.4
 
 # The Wrong Title
 
@@ -7,43 +7,27 @@
 
 ### Plot Summary
 
-The movie in all its parts is shown in first person perspective (POV) and the single protagonist ("The Writer", presumably a woman) is never shown. 
+I am the movie author. I'm holding the camera. You never see my face. Only a glimpse of my long curly hair. In the opening scene with the movie titles, I am walking innocently, hearing my own steps as I pass from a dark room through a sunlit corridor, exit into a rainy garden, and then continue along a sunny, flowery path between tall green bushes. I pass a piano and reach a door to the editing room, where I hear the piano played. I explain to the editor: It was supposed to be a detective movie, that music is too bright, and there's a typo in my name. It's Barbara.
 
-In the opening scene with titles we see The Writer  walking and hear her steps as she passes from a dark room through a sunlit corridor, exits into a rainy garden, and then a sunny flowery path between tall green bushes. She passes a piano. and reaches a door. 
+I forgot the editor's name. She has a wonderful smile. She tells me about her own traumatic encounter with a childhood bully that caused her to drop out of high-school. He used to call her Fatilda. But I don't really have time to listen.
 
-Titles are being shown: 
+In the next couple of versions of the opening scene we go through a sci-fi story, a horror scene (quickly aborted), a kitschy love affair scene, and a docu-drama scene. Each of these scenes follows a misunderstood suggestion or remark that I made to what's-her-name, the editor.
 
-The Wrong Title. A Sweet Revenge Inc. production. 
+I keep on passing the beautiful piano player whose music pours into the opening scene version and then continues into the editing room. I gradually get acquainted with her. and then embarassed, after the failed kiss scene. Each time I meet the editor's childhood tormentor with increasing details, despite my protests and her promises to fix the typo, which seemingly only gets worse.
 
-Starring...   
+The sci-fi scene follows a short movie that Fatilda saw, where that movie's author erases herself from the movie script in order to eliminate herself from a time-loop she's stuck in, repeatedly writing a movie she does not like.
 
-The audience is led to believe the Writer is a woman, hinted at by glimpses of her long curly hair, her colorful phone, colorful Bolivian bag, and the sound of her shoes tapping. In the editing suite, she and her Editor refine the opening scene for a detective film centered on tracking down a childhood bully. 
+In our version of the sci-fi scene, someone else is walking down the path holding the camera, taking my roll as 'the author'. It worked. I wrote myself out of the script! When he enters the editing room there's a man replacing the editor, giving me hope that things will get better. They don't. His elevator joke is not funny, the ambient piano music is boring, and I insist that the movie should be realistic. No waking up from imaginary scenes, no hallucination or time travel.
 
-The opening scene versions consistently feature that path, which passes a public piano; The music of this piano, and eventually the beautiful piano player escorts the opening scenes, and enters the editing studio and discussions.  All opening scenes end with a door. however, the reality behind that door shifts with each cut across seven distinct scenes, each in its own genre. 
+Just before the final scene I'm on my way to solving the mystery. I tell myself that all that is needed is fine tuning. I pass the piano player who is tuning the piano. Opening the door I hear loud applause. I'm on a stage with the piano player and her piano outside a door and the editing room is there with the editor sitting at her desk. I really don't like this and say so in a whisper. I don't have stage fright but this was unexpected. She is much older now, and so is the piano player. She tells me that she doesn't like this either. Over the years I've been pouring money into it, but in the end she is losing money on all these scenes and its taking her nowhere. The crowd claps.
 
-From the first session, the Editor weaves in stories of her own school-age trauma, describing someone who obsessively distorted her name calling her Fatilda instead of Matilda, until she dropped out. The Writer, aloof and distracted, barely listens, preoccupied with the project and the mounting production costs. 
+In the final scene I'm back to the first scene (And the original typo is back too). I come into the room and tell the author that this is banal. And that I'm out of money to continue this. She says there's no need for my money anymore. Oh and its not Banal Its Matilda. You can call me Fatilda.
 
-The title cards—persist in showing derogatory typos such ,as "Starring Barbari Smith" or "Staring Barbra Largent" instead of Barbara Lagrant. In the discussions the editor promises to fix that, but it seems to only get worse. 
+While the titles are going up there's a behind the scenes section behind the titles. I'm standing, and you get a full view of my long curly white hair, (which you glimpsed in the first scene when it was beautiful in full color). I'm watching the titles on a small screen. How was my acting? I ask, Its easy when you don't see me. I flip the camera around and now you see me. I'm a man with a big smile. Closeup back to the titles: The Wrong Title. A Sweet Revenge Inc. production by Rita Radcliff. Starring Billy Revenge as the author, Matilda Madgirl as the piano player and Rita Radcliff as the editor.
 
-Over time, the Editor ages visibly, frequently lamenting the excessive time and money being poured into the film.
+I look at the piano player, shocked: She's smiling. Matilda?
 
-Each of the 7 version of the opening scene has a different genre and is based on the understanding from the previous discussion. But the Editor always has a typo in the Writer's name, and consistently and progressively adds a personal story into the edits. 
-
-The horror film version is stopped in its tracks before anything scary has a chance of happening. Or is it?
-
-In the kitschy romantic version, the door leads to a theater stage where the Editor and pianist are set up with an audience; The discussion is part of a play. 
-
-In one discussion the editor tells about a sci-fi film she saw where the movie-script writer attempts to write himself out of the script to break a recurring time loop,  The writer mentions that she doesn't like the current version's ambient music that sounds like an elevator. 
-
-So the next version of the opening scene becomes a sci-fi film. In it the writer (who is now someone else, with the original writer written off the scene) reaches a sci-fi elevator that transforms people and musical instruments. Exiting the elevator into the editing studio she finds that the original editor has been replaced.  
-
-In the final session, the writer who's name is Billie Jean is told that she is the bully who distorted the editor's name (Barbara Laff) during the high-school years, and that this movie written by Barbara was meant as a sweet revenge, with poetic justice. 
-
-Then, while the titles are going up a behind the scenses section is shown, where the camera is flipped to show the writer who is in fact a man with long curly white hair, in the room with the now elderly editor they are looking at a small screen with the titles:  The Wrong Title by Sweet Revenge Inc. Starring Boris Bar-Baruch, Matilda Ray as the Editor, and Rita Dawson as the piano player. 
-
-He looks up, smiling proudly: "How was my acting? It's easy when they don't see you!" Then, surprised, he looks at the piano player. "Rita Dawson?" 
-
-She replies: "Yup, I am Retard Awesome." Matilda extends her hand: "And I'm Matilda. She's my first client."
+She extends her hand: Fatilda. And that's Retard from Sweet Revenges. I'm her first client.
 
 - [`synopsis.md`](synopsis.md) — Full project breakdown: constraints, conflicts, format, scene-pair sequence, and surprise-scene placeholders.
 
